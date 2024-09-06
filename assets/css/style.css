@@ -5,7 +5,8 @@
 }
 
 .bodi {
-    height: 108vh;
+    width: 100%;
+    min-height: 200px;
     background-color: #30C5FF;
 }
 
